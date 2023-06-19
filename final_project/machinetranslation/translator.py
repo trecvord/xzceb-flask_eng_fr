@@ -1,3 +1,4 @@
+"""Modude translator"""
 from deep_translator import MyMemoryTranslator
 
 
